@@ -18,14 +18,14 @@ footer {
     height: 120px;
     background-color: blue;
     color: white;
-    padding: 5%;
+
 }
 
 img {
     display: block;
     height: 50px;
     width: 50px;
-    margin: 5% auto;
+    margin: 0 auto;
 }
 
 ul {
