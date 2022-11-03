@@ -26,3 +26,8 @@ listTopics()
 console.log("============================================")
 console.log("Which topic should we study?")
 selectTopics()
+
+let date = new Date()
+document.getElementById('date').innerHTML = `© ${date.getFullYear()} Leighton Grant`;
+document.getElementById('date').style.fontSize = '10px';
+document.getElementById('date').style.textAlign = 'center';
